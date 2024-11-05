@@ -4,7 +4,7 @@
 export REGION=
 ```
 ```cmd
-git clone https://github.com/CodingWithHardik/ARC109-cloudhustlers.git
+git clone 
 cd ARC109-cloudhustlers
 . run.sh
 ```
