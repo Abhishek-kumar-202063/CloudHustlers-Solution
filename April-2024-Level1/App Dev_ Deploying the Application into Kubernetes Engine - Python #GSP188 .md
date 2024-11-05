@@ -4,7 +4,7 @@
 export ZONE=
 ```
 ```cmd
-git clone https://github.com/CodingWithHardik/GSP188-cloudhustlers.git
+git clone 
 cd ~/GSP188-cloudhustlers/
 . prepare_environment.sh
 ```
